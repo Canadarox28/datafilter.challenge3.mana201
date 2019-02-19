@@ -1,4 +1,4 @@
-# mana201_challenge3_datafilter
+# Data Filter for Management 201
 Filters junk data from a survey collected by MANA201 challenge 3
 
 This is a very minor algorithm designed to expedite a task originally expected to be manual.
